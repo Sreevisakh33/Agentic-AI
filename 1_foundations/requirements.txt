@@ -1,6 +1,9 @@
 requests
 python-dotenv
-gradio
+gradio==4.19.2
 pypdf
 openai
 openai-agents
+sentence-transformers
+scikit-learn
+numpy
